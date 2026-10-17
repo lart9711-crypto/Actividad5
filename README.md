@@ -11,10 +11,10 @@ Este proyecto implementa un pipeline completo de Machine Learning para clasifica
 2. Ejecutar el script de preparación de datos:
    ```bash
    cd fuentes
-   python datos_prep.py
+   python datos_prep.py.
 3.Ejecutar el script de entrenamiento y registro en MLflow:
 Bash
-python train.py
+python train.py.
 4. Visualizar los resultados y métricas en la interfaz web de MLflow:
 Bash
 mlflow ui
